@@ -1,4 +1,4 @@
 # Portfolio
-This is my portfolio website.
+This is just a portfolio website for practice purpose.
 Tools used: HTML/CSS
 Deployment link: https://itsmyportfolio11.netlify.app/
